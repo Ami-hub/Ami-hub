@@ -2,8 +2,6 @@
 <h3 align="center">A Back End developer from Israel</h3>
 <center><img src="https://i.ibb.co/pZZZj8v/Ami-Cahalon-1.gif" align="center" alt="Ami's GitHub Banner" width="270"/></center> 
 
-- 💬 Ask me about **Data Science and Information Security**
-
 - 📫 How to reach me **amicahalon@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
