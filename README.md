@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ami Cahalon</h1>
-<center><img src="https://i.ibb.co/pZZZj8v/Ami-Cahalon-1.gif" align="center" alt="Ami's GitHub Banner" width="270"/></center> 
 
 - 📫 How to reach me **amicahalon@gmail.com**
 
