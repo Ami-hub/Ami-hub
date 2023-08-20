@@ -1,9 +1,9 @@
 # Ami Cahalon
 
-Welcome to my GitHub profile! 👋
+Hey there! Welcome to my GitHub profile! 👋
 
 ## About Me
-Hey there! I'm Ami Cahalon, a passionate backend developer based in Lotem. With a strong foundation in TypeScript, Node.js, Python and more, I love turning complex problems into elegant solutions. My journey in the world of coding has been exciting, and I'm always eager to explore new technologies and expand my skill set.
+I'm Ami Cahalon, a passionate backend developer based in Lotem. With a strong foundation in TypeScript, Node.js, Python and more, I love turning complex problems into elegant solutions. My journey in the world of coding has been exciting, and I'm always eager to explore new technologies and expand my skill set.
 
 ## What I Do
 - 🖥️ Backend Development: Crafting robust and efficient server-side applications.
