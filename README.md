@@ -1,6 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ami Cahalon</h1>
+# Ami Cahalon
 
-<h3 align="center">Fill free to ask me about:</h3>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Welcome to my GitHub profile! 👋
 
-<p align="center"> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=amicahalon@gmail.com", target="_blank">📫 Click here to reach me! 📫 </a> </p>  
+## About Me
+Hey there! I'm Ami Cahalon, a passionate backend developer based in Lotem. With a strong foundation in TypeScript, Node.js, Python and more, I love turning complex problems into elegant solutions. My journey in the world of coding has been exciting, and I'm always eager to explore new technologies and expand my skill set.
+
+## What I Do
+- 🖥️ Backend Development: Crafting robust and efficient server-side applications.
+- 🚀 Tech Enthusiast: Embracing the ever-evolving tech landscape and staying up-to-date.
+- 📚 Continuous Learning: Constantly sharpening my skills and diving into new programming challenges.
+- 🌐 Open Source: Contributing to the open-source community and collaborating with fellow developers.
+
+## Get In Touch
+I'm always excited to connect with fellow developers, tech enthusiasts, and anyone passionate about coding. Feel free to reach out to me through my email amicahalon@gmail.com.
+
+Let's code the future together! ✨
+
+*"Stay curious, keep coding!"* 🚀
